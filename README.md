@@ -12,14 +12,13 @@ var _ =  require('lodash-x');
 ``` 
 
 ### What's new ?
---
+
 
 * isInvalidValue
 * compressObject
 * getType
 
 ### How to use ?
---
 
 * isInvalidValue:
 
@@ -94,6 +93,5 @@ console.log(o);
 ```
 
 ### License
---
 
 MIT
