@@ -1,0 +1,23 @@
+{
+  "name": "lodash-x",
+  "version": "0.0.1",
+  "description": "extend lodash basic functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "keywords": [
+    "lodash",
+    "extension"
+  ],
+  "author": "Jimmy Wang",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.14.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.4",
+    "mocha": "^2.5.3",
+    "should": "^10.0.0"
+  }
+}
